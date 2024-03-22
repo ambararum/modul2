@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 //ini merupakan array multidimensi
+//ini merupakan array multidimensi
 int main() {
     // Deklarasi array
     int arr[2][3][3];
